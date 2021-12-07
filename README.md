@@ -1,5 +1,5 @@
 # Arduino-odleglosciomierz
  - Projekt został wykonany jako zaliczenie z przedmiotu.
- - Film testowy: `Test.mkv`.
+ - Film poglądowy: `Test.mkv`.
 ## Autor
 Jakub Karalus
